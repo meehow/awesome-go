@@ -431,6 +431,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails.
 * [MailHog](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
 * [SendGrid](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
+* [Sendmail](https://github.com/meehow/sendmail) - Send emails with `/usr/sbin/sendmail`.
 * [smtp](https://github.com/mailhog/smtp) - SMTP server protocol state machine.
 
 ## Embeddable Scripting Languages
